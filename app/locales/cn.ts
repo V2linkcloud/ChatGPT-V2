@@ -27,7 +27,7 @@ const cn = {
     Later: "稍后再说",
     SaasTips: "配置太麻烦，想要立即使用",
     TopTips:
-      "✈️ 稳定老牌机场 | 海外团队运营 | 全线支持ChatGPT以及流媒体解锁 首发优惠，立刻解锁 ",
+      " 稳定老牌机场 | 海外团队运营 | 全线支持ChatGPT以及流媒体解锁 首发优惠，立刻解锁 ",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
